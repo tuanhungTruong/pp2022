@@ -11,4 +11,3 @@ Student Info
 
 * Student Name: Trương Tuấn Hưng
 * Student ID: BI11-107
-* 
